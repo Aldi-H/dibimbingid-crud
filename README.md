@@ -5,6 +5,7 @@ This is project starket kit for Dibimbing.id Laravel Bootcamp to help students i
 ## Setup & Installation
 
 + Clone or download this project
++ Open your terminal and go to the project directory then run `composer install`
 + Create `.env` file and copy the content from `.env.example`
 + run `php artisan key:generate` to generate app key
 + setup your database configuration
